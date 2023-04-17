@@ -1,0 +1,5 @@
+bin/
+obj/
+.vs/
+apinetcore.sln
+apinetcore.csproj.user
